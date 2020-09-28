@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello there 👋
+
+It's 7we ([he/him](https://www.mypronouns.org/he-him)).
+
+I'm a computer-science enthuasiast who loves exploring new technologies! I'm currently learning about programming language design and working hard in school.
 
 <!--
 **7we/7we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
